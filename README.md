@@ -52,7 +52,7 @@ To build Ebla (with the required dependencies); from inside the `ebla/` director
 
 ### AngularJS
 
-Ebla is using [AngularJS](https://angularjs.org/) to read the JSON files required to display each book. However, there is no intrinsic dependancy on AngularJS in Ebla’s current design -- these aspects of the app could happily be rewritten with a server-side language, with the added benefit of removing the JavaScript dependency altogether (as the reader itself includes a no-js fallback).
+Ebla is using [AngularJS](https://angularjs.org/) to read the JSON files required to display each book. However, there is no intrinsic dependancy on AngularJS in Ebla’s current design—these aspects of the app could happily be rewritten with a server-side language, with the added benefit of removing the JavaScript dependency altogether (as the reader itself includes a no-js fallback).
 
 ## Melk
 
